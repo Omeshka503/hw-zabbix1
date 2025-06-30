@@ -56,7 +56,7 @@ systemctl enable zabbix-server zabbix-agent2 apache2
 #### Решение 2
 
 1. `Установили агент Zabbix`
-   ![Установленные агенты Zabbix](./zabbix3.JPG)
+   ![Установленные агенты Zabbix](./zabbix3.jpg)
 
 2. `Проверка zabbix_log`
    ![Проверка zabbix_log](./zabbix4.JPG)
